@@ -7,5 +7,7 @@ https://github.com/zgeaw/react-native-global.git
 #Dependent
 
 npm install native-base@2.1.4 --save
+
 npm install react-native-modal-datetime-picker --save
+
 npm install react-native-picker --save
