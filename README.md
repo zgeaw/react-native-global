@@ -1,6 +1,6 @@
 React-Native-Global
 
-https://github.com/zgeaw/react-native-global.git
+git clone https://github.com/zgeaw/react-native-global.git
 
 32237384@qq.com
 
